@@ -4,6 +4,9 @@ The Anythink Market backend is Node web app written with [Express](https://expre
 
 ## Getting started
 
+Before running your backended and frontend, you need to install the dependencies by doing yarn install.
+Also, head to mongo atlas, create an account and follow this [guide](https://medium.com/featurepreneur/working-mongodb-5ae6a9d53462). 
+
 To start the app use: `./start.sh` from the backend directory.
 
 Make sure your DB is up and running.
